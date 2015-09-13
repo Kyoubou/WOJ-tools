@@ -5,9 +5,22 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\sprite0</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <scripts name="scripts">
+    <script>scripts\scr_Control_int.gml</script>
+    <script>scripts\scr_control_step.gml</script>
+    <script>scripts\scr_control_draw.gml</script>
+  </scripts>
+  <objects name="objects">
+    <object>objects\O_Control</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
