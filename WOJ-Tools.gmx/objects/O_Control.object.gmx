@@ -49,6 +49,7 @@
           <argument>
             <kind>1</kind>
             <string>scr_control_step()
+/theres some crap here too
 </string>
           </argument>
         </arguments>
